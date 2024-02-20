@@ -99,7 +99,7 @@ class MedUniversity : University
         }
     }
 }
- 
+
 
 class Program
 {
